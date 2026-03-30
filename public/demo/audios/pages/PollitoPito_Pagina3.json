@@ -1,0 +1,63 @@
+{
+   "text": " Dijo muy asustado. El cielo se va a caer y el rey lo debe saber. Voy de prisa a darle la noticia. Camina que camina encontr\u00f3 a gallina fina.",
+   "segments": [
+      {
+         "id": 0,
+         "seek": 0,
+         "start": 0.0,
+         "end": 8.56,
+         "text": " Dijo muy asustado. El cielo se va a caer y el rey lo debe saber. Voy de prisa a",
+         "tokens": [50364, 413, 24510, 5323, 382, 381, 1573, 13, 2699, 49549, 369, 2773, 257, 1335, 260, 288, 806, 319, 88, 450, 27422, 12489, 13, 25563, 368, 582, 3837, 257, 50783],
+         "temperature": 0.0,
+         "avg_logprob": -0.27208044052124025,
+         "compression_ratio": 1.2260869565217392,
+         "no_speech_prob": 0.10887260735034943,
+         "words": [
+            { "word": " Dijo", "start": 0.0, "end": 1.22, "probability": 0.6605926007032394 },
+            { "word": " muy", "start": 1.22, "end": 1.6, "probability": 0.9930317401885986 },
+            { "word": " asustado.", "start": 1.6, "end": 2.28, "probability": 0.9865834911664327 },
+            { "word": " El", "start": 3.04, "end": 3.28, "probability": 0.8909628987312317 },
+            { "word": " cielo", "start": 3.28, "end": 3.66, "probability": 0.9917625188827515 },
+            { "word": " se", "start": 3.66, "end": 3.94, "probability": 0.9976679682731628 },
+            { "word": " va", "start": 3.94, "end": 4.12, "probability": 0.9974330067634583 },
+            { "word": " a", "start": 4.12, "end": 4.3, "probability": 0.9992891550064087 },
+            { "word": " caer", "start": 4.3, "end": 4.78, "probability": 0.9788942933082581 },
+            { "word": " y", "start": 4.78, "end": 5.2, "probability": 0.9327726364135742 },
+            { "word": " el", "start": 5.2, "end": 5.56, "probability": 0.9953358769416809 },
+            { "word": " rey", "start": 5.56, "end": 5.84, "probability": 0.9385882616043091 },
+            { "word": " lo", "start": 5.84, "end": 6.02, "probability": 0.9938632249832153 },
+            { "word": " debe", "start": 6.02, "end": 6.22, "probability": 0.9226199388504028 },
+            { "word": " saber.", "start": 6.22, "end": 6.82, "probability": 0.9967592358589172 },
+            { "word": " Voy", "start": 7.46, "end": 7.78, "probability": 0.9604780673980713 },
+            { "word": " de", "start": 7.78, "end": 7.94, "probability": 0.9670742750167847 },
+            { "word": " prisa", "start": 7.94, "end": 8.36, "probability": 0.9324885904788971 },
+            { "word": " a", "start": 8.36, "end": 8.56, "probability": 0.9971123933792114 }
+         ]
+      },
+      {
+         "id": 1,
+         "seek": 0,
+         "start": 8.56,
+         "end": 14.2,
+         "text": " darle la noticia. Camina que camina encontr\u00f3 a gallina fina.",
+         "tokens": [50783, 37666, 635, 406, 15341, 13, 6886, 1426, 631, 1945, 1426, 10176, 11721, 257, 8527, 1426, 962, 64, 13, 51058],
+         "temperature": 0.0,
+         "avg_logprob": -0.27208044052124025,
+         "compression_ratio": 1.2260869565217392,
+         "no_speech_prob": 0.10887260735034943,
+         "words": [
+            { "word": " darle", "start": 8.56, "end": 8.92, "probability": 0.895355224609375 },
+            { "word": " la", "start": 8.92, "end": 9.14, "probability": 0.9970614314079285 },
+            { "word": " noticia.", "start": 9.14, "end": 9.68, "probability": 0.9929031133651733 },
+            { "word": " Camina", "start": 10.76, "end": 11.44, "probability": 0.9310433268547058 },
+            { "word": " que", "start": 11.44, "end": 11.6, "probability": 0.9426929354667664 },
+            { "word": " camina", "start": 11.6, "end": 12.12, "probability": 0.9842324554920197 },
+            { "word": " encontr\u00f3", "start": 12.12, "end": 13.08, "probability": 0.6962717026472092 },
+            { "word": " a", "start": 13.08, "end": 13.26, "probability": 0.927007257938385 },
+            { "word": " gallina", "start": 13.26, "end": 13.68, "probability": 0.9124448597431183 },
+            { "word": " fina.", "start": 13.68, "end": 14.2, "probability": 0.8182650804519653 }
+         ]
+      }
+   ],
+   "language": "Spanish"
+}

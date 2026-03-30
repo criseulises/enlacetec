@@ -1,0 +1,36 @@
+{
+   "text": " Un d\u00eda, pochito pito fue al bosque y un le cay\u00f3 una ciruela en la cabeza.",
+   "segments": [
+      {
+         "id": 0,
+         "seek": 0,
+         "start": 0.0,
+         "end": 8.34,
+         "text": " Un d\u00eda, pochito pito fue al bosque y un le cay\u00f3 una ciruela en la cabeza.",
+         "tokens": [50364, 1156, 12271, 11, 714, 339, 3528, 280, 3528, 9248, 419, 30641, 1077, 288, 517, 476, 45776, 812, 2002, 2450, 16079, 465, 635, 34615, 13, 50814],
+         "temperature": 0.0,
+         "avg_logprob": -0.3583696859854239,
+         "compression_ratio": 0.9868421052631579,
+         "no_speech_prob": 0.04493512213230133,
+         "words": [
+            { "word": " Un", "start": 0.0, "end": 1.2, "probability": 0.7346862554550171 },
+            { "word": " d\u00eda,", "start": 1.2, "end": 1.5, "probability": 0.9708691835403442 },
+            { "word": " pochito", "start": 1.94, "end": 2.38, "probability": 0.5099667509396871 },
+            { "word": " pito", "start": 2.38, "end": 2.8, "probability": 0.808527261018753 },
+            { "word": " fue", "start": 2.8, "end": 3.06, "probability": 0.927509069442749 },
+            { "word": " al", "start": 3.06, "end": 3.26, "probability": 0.9775760173797607 },
+            { "word": " bosque", "start": 3.26, "end": 3.7, "probability": 0.9864191114902496 },
+            { "word": " y", "start": 3.7, "end": 4.58, "probability": 0.7427436709403992 },
+            { "word": " un", "start": 4.58, "end": 5.52, "probability": 0.4054648280143738 },
+            { "word": " le", "start": 5.52, "end": 6.2, "probability": 0.9471703767776489 },
+            { "word": " cay\u00f3", "start": 6.2, "end": 6.62, "probability": 0.9695563912391663 },
+            { "word": " una", "start": 6.62, "end": 6.88, "probability": 0.9723901152610779 },
+            { "word": " ciruela", "start": 6.88, "end": 7.32, "probability": 0.8581680655479431 },
+            { "word": " en", "start": 7.32, "end": 7.68, "probability": 0.9935588240623474 },
+            { "word": " la", "start": 7.68, "end": 7.84, "probability": 0.9969483017921448 },
+            { "word": " cabeza.", "start": 7.84, "end": 8.34, "probability": 0.9894331097602844 }
+         ]
+      }
+   ],
+   "language": "Spanish"
+}

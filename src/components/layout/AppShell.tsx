@@ -38,6 +38,7 @@ const navItems = [
   { href: "/panel-ctc", label: "Panel CTC", icon: BarChart3, color: "#1351aa" },
   { href: "/voluntarios", label: "Voluntarios", icon: ShieldCheck, color: "#4caf50" },
   { href: "/accesibilidad", label: "Accesibilidad", icon: Accessibility, color: "#7c4dff" },
+  { href: "/demo-libro", label: "Demo Libro", icon: BookOpen, color: "#ff6b9d" },
 ];
 
 export function AppShell({ children }: { children: React.ReactNode }) {
