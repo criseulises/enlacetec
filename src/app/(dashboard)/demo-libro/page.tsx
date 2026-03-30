@@ -347,18 +347,17 @@ function BookReader() {
               aria-label="Texto del cuento con lectura resaltada"
               aria-live="polite"
             >
-              <p className="text-xl leading-relaxed" style={{ fontFamily: "var(--font-heading)" }}>
+              <p className="text-xl leading-relaxed flex flex-wrap gap-x-2 gap-y-1" style={{ fontFamily: "var(--font-heading)" }}>
                 {page.words.map((w, i) => (
                   <span
                     key={i}
-                    className={`inline-block transition-all duration-100 ${
+                    className={`transition-all duration-100 ${
                       activeWordIdx === i
                         ? "rounded-lg bg-[#ffc107] px-1 py-0.5 font-bold text-gray-900 scale-110 shadow-sm"
                         : "text-gray-700"
                     }`}
-                    style={activeWordIdx === i ? { transform: "scale(1.05)" } : undefined}
                   >
-                    {w.word}{" "}
+                    {w.word}
                   </span>
                 ))}
               </p>
